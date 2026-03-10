@@ -2,13 +2,12 @@ name: GitHub Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at 00:00 UTC
+    - cron: '0 0 * * *' # daily 00:00 UTC
   workflow_dispatch:
 
 jobs:
-  build:
+  update-snake:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
 
