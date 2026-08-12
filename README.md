@@ -43,26 +43,4 @@
 
 ---
 
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aung-Dev-hub&show_icons=true&theme=tokyonight"/>
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aung-Dev-hub&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aung-Dev-hub&theme=tokyonight"/>
-</p>
-
----
-
-
 ⭐️ From **Aung Myo Oo**
